@@ -9,7 +9,7 @@
     "watch": "tsc -w"
   },
   "bin": {
-    "faunadb-migrate": "./dist/index.js"
+    "faunadb-migrate": "dist/index.js"
   },
   "author": "Bruno Quaresma",
   "license": "ISC",
